@@ -1,4 +1,4 @@
-<h1 align="center">Discord-Bot</h1>
+<h1 align="center">MCBE-Bypasser</h1>
 
 <div align="center">
 	<p>
