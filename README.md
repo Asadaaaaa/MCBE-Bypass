@@ -33,7 +33,7 @@
  1. Double Click Main.exe to execute the file (it's must run as Administrator)
  2. Type "1" and enter
  3. Wait and be patient for a momment
- 4. And the bypass has been successful
+ 4. And the bypass has been successful<br>
 After you finish playing minecraft, you must run "Fix System" to disable bypass and repair system!
  
 Disclaimer: This program will change some default system, I am not responsible if there is a failure in the system
