@@ -26,7 +26,7 @@
 
  - <h3>Step Installation:</h3>
  1. Make sure you're already installed Minecraft for Windows and Activated the free trial
- 2. Download the latest version on the [Release](https://github.com/Asadaaaaa/UKTix/releases/tag/v3.1) page
+ 2. Download the latest version on the [Release](https://github.com/Asadaaaaa/MCBE-Bypass/releases/tag/1.0) page
  3. Extract the file
  
  - <h3>Step to Run Bypasser:</h3>
